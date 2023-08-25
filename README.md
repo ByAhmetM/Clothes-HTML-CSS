@@ -6,4 +6,4 @@
 Technologies: Html-Css
 ````
 
-<img src="./clothes-ekrankaydi.gif">
+<img src="clothes-ekrankaydi.gif">
